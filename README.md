@@ -3,13 +3,9 @@
 Hi, I'm Chaitali Shende 
 
 💻 An enthusiastic Full-Stack Java Developer passionate about building scalable, user-friendly applications.
-
 🚀 I am passionate about developing efficient, scalable, and user-centric applications using Java and modern web technologies.
-
 ✨ Alongside technical expertise, I value clear communication, teamwork, adaptability, and problem-solving to deliver impactful results.
-
 🌱 Currently, I am expanding my knowledge in Spring Boot, REST APIs, and front-end frameworks to become a well-rounded developer.
-
 🤝 Open to collaborating on Java, Web Development, and Open Source projects.
 
 
@@ -44,6 +40,7 @@ SQL Queries, Joins, Stored Procedures
 Git & GitHub
 
 Eclipse / IntelliJ IDEA
+
 
 🔗 Connect With Me  
 
