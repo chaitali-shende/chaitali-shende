@@ -42,6 +42,5 @@ Eclipse / IntelliJ IDEA
 
 🔗 Connect With Me  
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/
-chaitali-shende-a28779256)  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/chaitali-shende-a28779256)  
 [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:your-chaitaliishendde@gmail.com)  
