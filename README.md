@@ -1,8 +1,8 @@
-👩‍💻 About Me
+**👩‍💻 About Me**
 
-Hi, I'm Chaitali Shende 
+Hi, I'm  Chaitali Shende
 
-💻 An enthusiastic Full-Stack Java Developer, driven to craft scalable, user-friendly, and impactful applications that solve real-world challenges.
+💻 An enthusiastic **Full-Stack Java Developer**, driven to craft scalable, user-friendly, and impactful applications that solve real-world challenges.
 
 🚀 I am passionate about developing efficient, scalable, and user-centric applications using Java and modern web technologies.
 
@@ -14,7 +14,7 @@ Hi, I'm Chaitali Shende
 
 
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 🔹 Frontend
 
@@ -48,7 +48,7 @@ Eclipse / IntelliJ IDEA
 
 
 
-🔗 Connect With Me 
+**🔗 Connect With Me **
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/chaitali-shende-a28779256)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/?view=cm&to=chaitaliishende@gmail.com)
