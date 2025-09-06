@@ -1,6 +1,6 @@
-**👩‍💻 About Me**
+****👩‍💻 About Me****
 
-Hi, I'm  Chaitali Shende
+Hi, I'm  **Chaitali Shende**
 
 💻 An enthusiastic **Full-Stack Java Developer**, driven to craft scalable, user-friendly, and impactful applications that solve real-world challenges.
 
@@ -14,9 +14,9 @@ Hi, I'm  Chaitali Shende
 
 
 
-**🛠️ Tools & Technologies**
+****🛠️ Tools & Technologies****
 
-🔹 Frontend
+**🔹 Frontend**
 
 HTML5, CSS3, JavaScript 
 
@@ -24,7 +24,7 @@ React.js
 
 Responsive UI with Bootstrap
 
-🔹 Backend
+**🔹 Backend**
 
 Core Java, Advanced Java (OOPs, Collections, Multithreading)
 
@@ -34,13 +34,13 @@ Spring Framework, Spring Boot
 
 RESTful APIs
 
-🔹 Database
+**🔹 Database**
 
 Oracle 
 
 SQL Queries, Joins, Stored Procedures
 
-🔹 Tools & Others
+**🔹 Tools & Others**
 
 Git & GitHub
 
@@ -48,7 +48,7 @@ Eclipse / IntelliJ IDEA
 
 
 
-**🔗 Connect With Me **
+****🌐 Connect With Me****
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/chaitali-shende-a28779256)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/?view=cm&to=chaitaliishende@gmail.com)
