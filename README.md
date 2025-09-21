@@ -54,6 +54,10 @@ Eclipse / IntelliJ IDEA
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/?view=cm&to=chaitaliishende@gmail.com)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/chaitali-shende)
 
+---
+
+💡 Check out my [**LeetCode**](https://leetcode.com/ChaitaliShende/) profile for coding challenges and problem-solving skills.
+
 
 
  
