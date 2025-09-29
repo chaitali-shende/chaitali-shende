@@ -8,7 +8,7 @@ Hi, I'm  **Chaitali Shende**
 
 ✨ Alongside technical expertise, I value clear communication, teamwork, adaptability, and problem-solving to deliver impactful results.
 
-🌱 Currently, I am expanding my knowledge in Spring Boot, REST APIs, and front-end frameworks to become a well-rounded developer.
+🌱 Currently, I am expanding my knowledge in Spring Boot, Microservices, REST APIs, and front-end frameworks to become a well-rounded developer.
 
 🤝 Open to collaborating on Java, Web Development, and Open Source projects.
 
